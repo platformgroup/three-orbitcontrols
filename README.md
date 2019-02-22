@@ -1,6 +1,6 @@
 # three-orbitcontrols
 
-> is the [three.js] OrbitControls from official repo examples
+Fork of OrbitCOntrols with passive event listeners for better mobile perf.
 
 ## Installation
 
